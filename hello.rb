@@ -1,2 +1,7 @@
 puts "Hello World"
 print "I am rishi\n"
+puts "Hello Again"
+puts "I like typing this."
+puts "This is fun."
+puts "Yay! Printing."
+puts "I'd much rather you 'not'."
