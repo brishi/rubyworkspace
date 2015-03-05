@@ -10,6 +10,7 @@ y = "amoung them #{spoiled_apples} are #{flaw} "
 puts "I said : #{x} "
 puts "I also said : #{y}"
 
+
 opinion = flase
 review = "Apples are in good condition? #{opinion}"
 
